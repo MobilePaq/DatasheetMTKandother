@@ -1,0 +1,204 @@
+\---mediatek_202304
+    +---IoT
+    |       MT2523_Datasheet_Public.pdf
+    |       MT2523_Product_Brief.pdf
+    |       MT2523_Reference_Manual_Public.pdf
+    |       MT2533D_Datasheet.pdf
+    |       MT7687F_Datasheet.pdf
+    |       mt7688_datasheet_v1_4.pdf
+    |       MT8516A_Application_Processor_Functional_Specification_20180102_v0_1.pdf
+    |       
+    +---MT626x(FP)
+    |       6226.pdf
+    |       MT6260 Datasheet.pdf
+    |       MT6260.pdf
+    |       MT6260A-MEDIATEK.pdf
+    |       MT6261A Data Sheet_v0.2.pdf
+    |       MT6261D Data Sheet_v0.4.pdf
+    |       MT6261D_GSM_GPRS_SOC_Processor_Technical_Brief_v1.01.pdf
+    |       MT6261M Data_Sheet_v1.0.pdf
+    |       
+    +---MT62xx(FP)
+    |   |   6219.pdf
+    |   |   6226.pdf
+    |   |   6228.pdf
+    |   |   Baseband presentation MT6218.pdf
+    |   |   MT Single chip dual SIM MT6225 MT6318 MT6188 MT6301 MT6139 MT6601 MT6302.pdf
+    |   |   MT6205B.pdf
+    |   |   MT6217 x.pdf
+    |   |   MT6218 x.pdf
+    |   |   MT6218_schematics.pdf
+    |   |   MT6219x2.pdf
+    |   |   MT6227+schematics.pdf
+    |   |   MT6227.pdf
+    |   |   MT6235 GSM GPRS Baseband Processor_ Data Sheet_1.02.pdf
+    |   |   MT6236_Design_Notice_V0.2_20101013%5B1%5D_1345771153500.pdf
+    |   |   MT6252.pdf
+    |   |   MT6252_GSM_GPRS_Baseband_Processor_Data_Sheet_v1.0.pdf
+    |   |   MTK+6205+schematics.pdf
+    |   |   MTK6223.pdf
+    |   |   
+    |   +---MT 6253
+    |   |       MT6253 Key Component List.pdf
+    |   |       MT6253 Overview-presentation.pdf
+    |   |       MT6253 Rev.10.pdf
+    |   |       MT6253 Soldering.pdf
+    |   |       mt6253+gsm+thai+burapa.pdf
+    |   |       MT6253GSMGPRSBasebandProcessorDataSheet.pdf
+    |   |       MT6253_ SMT&Application.pdf
+    |   |       MT6253_Beta Site Phone.pdf
+    |   |       MTK_6253_Issue_Promplem.pdf
+    |   |       PCB design.pdf
+    |   |       
+    |   \---MT6250
+    |           201407231711056145.pdf
+    |           T520-Schematic.pdf
+    |           
+    +---MT651x(FP)
+    |       MT6515-6517 Layout.pdf
+    |       MT6516 Design Notice.PDF
+    |       MT6516.pdf
+    |       MT6517 GSM_EDGE Smartphone Application Processor Technical Brief.pdf
+    |       
+    +---MT657x
+    |       Android+sensor+customization_36MP.pdf
+    |       MT6572 HSPA Smartphone Application Processor 1.0.pdf
+    |       MT6572 Schematic.pdf
+    |       MT6573_datasheet.pdf
+    |       MT6575Technical_Brief.pdf
+    |       
+    +---MT658x
+    |       MT6580 schematic.pdf
+    |       MT6580_WCDMA_Smartphone_SoC_Application_Processor_Technical_Brief_v1.0.pdf
+    |       MT6582.pdf
+    |       MT6582_MB.pdf
+    |       MT6589_MT6320_MT6167_MT6628_EMM.pdf
+    |       MT6589_MT6320_MT6167_MT6628_EMMC_LPDDR2_WG_NO+RXD_SKY77590_V1.00.pdf
+    |       MT6589_Technical_Brief_v0.2_20120926.pdf
+    |       
+    +---MT659x
+    |   |   MT6592 Datasheet.pdf
+    |   |   MT6592_MT6166_MT6625_MT6322_MT6333_EMMC_LPDDR2_TG_V019.pdf
+    |   |   MT6595 Datasheet Brief.pdf
+    |   |   MT6595_MT6331_MT6332__MT6169_SCH.pdf
+    |   |   
+    |   \---A820_MT_6589
+    |       +---12
+    |       |       altai-mb-h301-sst-130105.pdf
+    |       |       altai-mb-h301-sst-130105_text.pdf
+    |       |       Altai_MB_H301_SCH_0129.pdf
+    |       |       
+    |       \---13
+    |               Altai_SUB_H302_SCH_20130201.pdf
+    |               altai_sub_h302_si_20130121.pdf
+    |               altai_sub_h302_si_20130121_text.pdf
+    |               
+    +---MT673x
+    |       MT6735 LTE Smartphone Application Processor Functional Specification_v1.0.pdf
+    |       MT6735_Technical_Brief_V1.3.pdf
+    |       MT6737-MediaTek_datasheet.pdf
+    |       MT6737_Processor Functional Specification_V1.1_20160422.pdf
+    |       MT6739CH_LTE_Smartphone_Application_Processor_Technical_Brief_V1.00.pdf
+    |       MT6739CW_LTE_Smartphone_Application_Processor_Technical_Brief_V1.00.pdf
+    |       MT6739WW_LTE_Smartphone_Application_Processor_Technical_Brief_V1.00.pdf
+    |       MT6739_LTE_Smartphone_Application_Processor_Technical_Brief_V0.17.pdf
+    |       MT6739_MT6357_MT6177M_MT6625L_DISCRETE_EMMC_LPDDR3_201706051030-162.pdf
+    |       
+    +---MT675x
+    |       datasheet-mtk6753.pdf
+    |       MT6750_LTE_V1.3.pdf
+    |       MT6752_32_MT6325_MT6311_MT6165.pdf
+    |       MT6752_Technical_Brief_V10.pdf
+    |       MT6755 схема.pdf
+    |       MT6755_Design_Notice_V1.6.pdf
+    |       MT6755_LTE-A_Smartphone_Application_Processor_Technical_Brief_V1.8.pdf
+    |       MT6757_Datasheet.pdf
+    |       MT6757_LTE-A_Smartphone_Application_Processor_Technical_Brief_V1.3.pdf
+    |       MT6757_MT6351_MT6311_MT6176_MT6625L_EMMC_LPDDR4_LPDDR4X_6M13B_REF_SCHEMATIC_V0.2.pdf
+    |       
+    +---MT676x
+    |       MT6761_Design_Notice_V0.4.1.pdf
+    |       MT6761_LTE-A_Smartphone_Application_Processor_Technical_Brief_V1.0.1.pdf
+    |       MT6763_LTE-A_Smartphone_Application_Processor_Technical_Brief.pdf
+    |       MT6765 Design Notice V0.1.pdf
+    |       MT6765 PCB Design Guidelines V0.1.pdf
+    |       MT6765 Thermal Design Notice V0.1.pdf
+    |       MT6765_LTE-A_Smartphone_Application_Processor_Technical_Brief_V0.11.pdf
+    |       MT6765_MT6357 Co-Clock Design Notice V0.1.pdf
+    |       
+    +---MT677x
+    |       MT6771_GPIO_Formal_Application_Spec_V0.20.pdf
+    |       MT6771_LTE-A_Smartphone_Application_Processor_Technical_Brief_V1.10.pdf
+    |       MT6771_MT6358_MT6370_MT6177_MT6631_EMMC_LPDDR4X_6M13B_V1.21.pdf
+    |       MT6771_PCB_Design_Guidelines_V0_20.pdf
+    |       
+    +---MT6799
+    |       MT6799(helio X30) MMD User Guide-V0_4 .pdf
+    |       
+    +---MT679x
+    |       MT6799 LTE-A Smartphone Application Processor Technical Brief V1.1 .pdf
+    |       MT6799(helio X30)_MT6335_MT6336_MT6179_MT6632_MT6337_UFS_LPDDR4_6M14B_EXT-PWR_V1.pdf
+    |       MT6799(helio X30)_WHITNEY_MMD_V0.4_20161213.pdf
+    |       
+    +---MT689x
+    |       MT6893 5G Smartphone Application Processor Technical Brief V1.2.pdf
+    |       
+    +---MT762x(ROUTER-SOC)
+    |       MT7620_Datasheet-1.pdf
+    |       MT7620_Datasheet.pdf
+    |       MT7621-1.pdf
+    |       MT7621.pdf
+    |       
+    +---MT8xxx(Tablet)
+    |       MT8127 schematics.pdf
+    |       MT8127_Design_Notice_V0.2_20140227.pdf
+    |       MT8735_Technical_Brief_V0.9.pdf
+    |       MT8788A_LTE-A_Tablet_Application_Processor_Technical_IST_V1.4.pdf
+    |       
+    +---Other files
+    |       mediatek-mt3351-schematic.pdf
+    |       MSW8535N_Datasheet.pdf
+    |       RF+3146+schematics.pdf
+    |       RT5081_Design_Notice_V0P9_1703310.pdf
+    |       SC6600D_SP7350_SCH_V1[1].3.0.pdf
+    |       SC6600D_SP7350_SCH_V1[1].3.0_text.pdf
+    |       
+    +---PMIC
+    |       datasheet_mt6329.pdf
+    |       MT6305B+Data+Sheet+Rev[1].1.0.pdf
+    |       MT6311_PMIC_Data_Sheet_V1_01.pdf
+    |       MT6323L_for_MT8127_Design_Notice_V0.1.pdf
+    |       MT6323L_PMIC_Data_Sheet_V1.3_20150724.pdf
+    |       MT6325_PMIC_Data_Sheet_V010.pdf
+    |       MT6328-MEDIATEK.pdf
+    |       MT6328_PMIC_Data_Sheet_V1.0.pdf
+    |       MT6350_PMIC_Data_Sheet_V1.10.pdf
+    |       MT6351_PMIC_Data_Sheet_V12-Final.pdf
+    |       MT6353_PMIC_Data_Sheet_V13-20170420.pdf
+    |       MT6355_PMIC_Data_Sheet_V11.pdf
+    |       MT6356_PMIC_Data_Sheet_V1.2.pdf
+    |       MT6357_PMIC_Data_Sheet_V1.0.pdf
+    |       MT6357_Technical_Brief_V01-1.pdf
+    |       MT6357_Technical_Brief_V01.pdf
+    |       MT6358_Design_Notice_V1.10.pdf
+    |       MT6358_Technical_Brief_V01.pdf
+    |       MT6370_PMIC_Data_Sheet_V04.pdf
+    |       MT6371_PMIC_Data_Sheet_V020.pdf
+    |       MTK6318.pdf
+    |       pdf-MediaTek-6323.pdf
+    |       
+    \---RF
+            datasheet-mtk3332.pdf
+            datasheet-mtk3339.pdf
+            mediatek_mt3329.pdf
+            MediaTek_MT6169V_RF_Transceiver_CAR-1510-202_TOC.pdf
+            MT6169_RF System Datasheet_V1.7_20150603.pdf
+            MT6176_datasheet_release_1p81.pdf
+            MT6177-V1.3EN_Platform_System_RF_Design_Notice-2915432157.pdf
+            MT6177M_RF_datasheet_0p2_Release.pdf
+            MT6605_brief_spec_v04.pdf
+            MT6620_combo_module_application_note.ppt.pdf
+            MT6625L.pdf
+            MT6631_External_Data_Sheet_v02a_(20160421).pdf
+            MT7601U-MediaTek.pdf
+            
